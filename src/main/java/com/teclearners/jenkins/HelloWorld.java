@@ -1,4 +1,4 @@
-package com.teclearners.jenikins;
+package com.teclearners.jenkins;
 
 public class HelloWorld {
 	public static void main(String[] args) {
